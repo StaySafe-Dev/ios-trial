@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://staysafe-dev.github.io/ios/StaySafeApp.ipa</string>
+		<string>https://staysafe-dev.github.io/ios-trial/StaySafeApp.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://staysafe-dev.github.io/ios/image.57x57.png</string>
+		<string>https://staysafe-dev.github.io/ios-trial/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://staysafe-dev.github.io/ios/image.512x512.png</string>
+		<string>https://staysafe-dev.github.io/ios-trial/image.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>

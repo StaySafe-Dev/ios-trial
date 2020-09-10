@@ -14,7 +14,7 @@
 				<key>SHA1</key>
 				<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 				<key>dateExpires</key>
-				<string>2/8/23</string>
+				<string>08/02/23</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -30,7 +30,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -54,7 +54,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -78,7 +78,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -102,7 +102,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -126,7 +126,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -150,7 +150,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -174,7 +174,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -198,7 +198,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -222,7 +222,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -246,7 +246,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -270,7 +270,7 @@
 						<key>SHA1</key>
 						<string>9CB8C0FC6FF48D0F746677B602B4325FAC1E4BD8</string>
 						<key>dateExpires</key>
-						<string>2/8/23</string>
+						<string>08/02/23</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -301,7 +301,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>8ca18531-b7be-42cf-915f-26a67bb4a283</string>
+				<string>766296ee-4a24-4493-99e2-28ce795e4d92</string>
 				<key>name</key>
 				<string>iOS Team Inhouse Provisioning Profile: id.staysafe.iosmobile</string>
 			</dict>
